@@ -1,0 +1,15 @@
+1,Whole Chicken,25.99
+2,Carne Asada,14.99
+3,Tacos de Pastor,11.99
+4,Quesadilla de Pollo,12.99
+5,Hamburguesa,13.76
+6,Fries,5.99
+7,Arroz,3.49
+8,Frijoles Charros,3.49
+9,Horchata,6.99
+10,Agua de Pina,6.99
+11,Coca Mexicana,4.99
+12,Churros,3.29
+13,Flan,3.99
+14,Salsa Roja,0.5
+15,Salsa Verde,0.5
