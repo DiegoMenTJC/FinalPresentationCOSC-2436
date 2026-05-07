@@ -3,7 +3,7 @@
 3,Tacos de Pastor,11.99
 4,Quesadilla de Pollo,12.99
 5,Hamburguesa,13.76
-6,Fries,5.99
+6,Fries,4.99
 7,Arroz,3.49
 8,Frijoles Charros,3.49
 9,Horchata,6.99
